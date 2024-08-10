@@ -61,7 +61,7 @@
 - **Extras**:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,unreal,linux" />
+    <img src="https://skillicons.dev/icons?i=blender,unreal,linux,git,github" />
 
 
 </p>
